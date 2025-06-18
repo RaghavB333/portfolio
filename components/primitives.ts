@@ -10,12 +10,13 @@ export const title = tv({
       cyan: "from-[#00b7fa] to-[#01cfea]",
       green: "from-[#6FEE8D] to-[#17c964]",
       pink: "from-[#FF72E1] to-[#F54C7A]",
+      black: "from-gray-900 to-gray-700 dark:from-gray-100 dark:to-gray-300",
       foreground: "dark:from-[#FFFFFF] dark:to-[#4B4B4B]",
     },
     size: {
       sm: "text-3xl lg:text-4xl",
       md: "text-[2.3rem] lg:text-5xl leading-9",
-      lg: "text-4xl lg:text-6xl",
+      lg: "text-4xl lg:text-[75px]",
     },
     fullWidth: {
       true: "w-full block",
@@ -34,6 +35,7 @@ export const title = tv({
         "green",
         "pink",
         "foreground",
+        "black"
       ],
       class: "bg-clip-text text-transparent bg-gradient-to-b",
     },
