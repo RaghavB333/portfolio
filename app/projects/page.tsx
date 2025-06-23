@@ -66,7 +66,7 @@ function Projects() {
   return (
     <div className="min-h-screen w-full px-4 py-8 flex flex-col items-center space-y-12 mb-10">
 
-      <h1 className="text-[#1d1e22] dark:text-white font-bold text-2xl md:text-4xl "> Click on the Project Tabs to view details. </h1>
+      <h1 className="text-[#1d1e22] dark:text-white font-bold text-xl md:text-3xl ">Click on a project card to view more details and visit the live demo.</h1>
       {projects.map((project, index) => (
         <div key={index} className="w-full max-w-4xl space-y-4">
           {/* Card */}
