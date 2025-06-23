@@ -65,6 +65,8 @@ function Projects() {
 
   return (
     <div className="min-h-screen w-full px-4 py-8 flex flex-col items-center space-y-12 mb-10">
+
+      <h1 className="text-[#1d1e22] dark:text-white font-bold text-2xl md:text-4xl "> Click on the Project Tabs to view details. </h1>
       {projects.map((project, index) => (
         <div key={index} className="w-full max-w-4xl space-y-4">
           {/* Card */}
@@ -91,7 +93,6 @@ function Projects() {
                 <h4 className="font-semibold text-xl sm:text-2xl">
                   {project.title}
                 </h4>
-                <p className="text-sm mt-2">Click to view details</p>
               </CardHeader>
 
               {/* Image */}
