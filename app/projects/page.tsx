@@ -115,7 +115,7 @@ function Projects() {
                 animate={{ opacity: 1, height: "auto" }}
                 exit={{ opacity: 0, height: 0 }}
                 transition={{ duration: 0.5 }}
-                className="dark:bg-[#1d1e22] dark:text-[aliceblue] bg-[#4ABDAC] text-[aliceblue] rounded-xl p-6 shadow-md"
+                className="dark:bg-[#090a0a]  dark:text-[aliceblue] bg-[#4ABDAC] text-[aliceblue] rounded-xl p-6 shadow-md"
               >
                 <h5 className="text-lg font-semibold mb-2">{project.title}</h5>
                 <p className="text-sm mb-4 whitespace-pre-line">{project.description}</p>
