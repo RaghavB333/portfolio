@@ -47,6 +47,31 @@ Key Features:\n
 \t7. Admin Privileges — includes editing student and teacher records, form creation, and complete data control.`
   },
   {
+    title: "DisasterSHIELD",
+    image: "/ds.jpg",
+    link: "https://disaster-shield-ten.vercel.app/",
+    color: "black",
+    description: `🏆 *DisasterSHIELD* is an award-winning hackathon project designed to revolutionize disaster response and crisis management using intelligent, real-time technology.
+
+🌐 **Key Features:**
+
+1. **Proactive Disaster Alerts**  
+   A machine learning–powered alert system that predicts potential natural disasters (like floods or earthquakes) ahead of time, enabling authorities and emergency teams to act early and save lives.
+
+2. **Resource Mapping & Navigation**  
+   An interactive geolocation-based map that displays nearby relief centers including food supply hubs, medical facilities, and temporary shelters. Users can get real-time directions to the nearest help point with one click.
+
+3. **AI-Powered Smart Chatbot**  
+   Integrated with Google Gemini, the chatbot answers public queries instantly—ranging from safety tips to resource locations—ensuring timely and accurate information during emergencies.
+
+4. **Secure Donation Platform**  
+   A seamless and trusted donation gateway powered by Razorpay that connects donors directly with verified disaster relief initiatives, ensuring transparency and rapid fund mobilization.
+
+💡 *Built to empower communities, assist authorities, and save lives when it matters most.*
+`
+
+  },
+  {
     title: "FundBay",
     image: "/fundbay.jpg",
     link: "https://fund-bay.vercel.app/",
@@ -117,8 +142,8 @@ function Projects() {
                 transition={{ duration: 0.5 }}
                 className="dark:bg-[#090a0a] dark:text-[aliceblue] bg-[#4ABDAC] text-[aliceblue] rounded-xl p-6 shadow-md"
               >
-                <h5 className="text-lg font-semibold mb-2">{project.title}</h5>
-                <p className="text-sm mb-4 whitespace-pre-line">{project.description}</p>
+                <h5 className="text-xl font-semibold mb-2">{project.title}</h5>
+                <p className="text-md mb-4 whitespace-pre-line">{project.description}</p>
                 <Button
                   as="a"
                   href={project.link}
