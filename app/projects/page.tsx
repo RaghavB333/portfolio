@@ -35,6 +35,7 @@ Come and explore how we've blended the thrill of gaming with the challenge of co
     link: "https://feedback-system-rt.vercel.app/",
     color: "black",
     description: `An institutional feedback collection system with dynamic form generation and an advanced analytics dashboard.\n
+Inspiration? - Absence of a robust and automated feedback system in our College\n
 Key Features:\n
 \t1. Student Registration — students can register and maintain their profiles.\n
 \t2. Admin Portal — secured access for managing the feedback system.\n
