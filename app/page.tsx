@@ -136,7 +136,7 @@ export default function HomePage() {
         <AccordionItem
           key="1"
           aria-label="About Me"
-          subtitle="Press the avatar to expand"
+          subtitle="Press the profile picture to expand"
 
           startContent={
             <Avatar
