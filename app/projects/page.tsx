@@ -9,7 +9,7 @@ const projects = [
     image: "/cow.jpg",
     link: "https://code-of-war.vercel.app/",
     color: "white",
-    description: `A multiplayer competitive featuring real time coding battles with friends, multi-language support, code execution on given test cases and real-time analysis — born from our love for both coding and gaming.\n
+    description: `A multiplayer competitive coding platform featuring real time coding battles with friends, multi-language support, code execution on given test cases and real-time analysis — born from our love for both coding and gaming.\n
 Our USP? We allow users to compete with friends through a unique Party System. Head over to the Playground Section in our app to configure custom contest settings with your friends.\n
 We’ve transformed competitive coding into an online game you can play with your friends. Dive into the project and experience the magic.\n
 \n
