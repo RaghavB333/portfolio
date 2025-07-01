@@ -151,11 +151,11 @@ export default function HomePage() {
         >
           <div className="flex flex-col lg:flex-row justify-between items-center gap-10 px-4 py-10">
             <div className="text-lg leading-relaxed max-w-xl">
-              Hey, I’m <strong>Raghav Bhargava</strong> — a full-stack developer passionate about building purposeful digital products that blend performance with great design.
+              Hey, I’m <strong>Raghav Bhargava</strong> — a full-stack developer passionate about building purposeful Web Applications that solve real world problems which, in addition, blend performance with great design.
               <br /><br />
-              With hands-on expertise in Next.js, Node.js, and MongoDB, I build scalable web apps inculcating AI-driven tools, and real-time systems that solve real problems.
+              With hands-on expertise in Next.js, Node.js, React.js, MongoDB, Mysql, Tailwind CSS, HTML5 and CSS3 I build scalable applications with integrated Machine Learning, real-time systems, security, role based access and DevOps (for instance Docker, AWS EC2 etc. ) which solve real problems.
               <br /><br />
-              From hackathon wins to full-scale launches, I thrive on creative engineering with a strong focus on UX, accessibility, and clean architecture.
+              From winning one hackathon and reaching top 10 in another, to now set out on an adventure in real world to solve as my real world problems with my skills, I am committed to learn, grow, solve and most importantly, code, with all my heart.
               <br /><br />
               Let’s connect — the next big idea might just start here.
               <motion.div
