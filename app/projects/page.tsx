@@ -9,12 +9,12 @@ const projects = [
     image: "/cow.jpg",
     link: "https://code-of-war.vercel.app/",
     color: "white",
-    description: `A competitive coding platform inspired by LeetCode, featuring multi-language support, custom test cases, and real-time analysis — born from our love for both coding and gaming.\n
-Our USP? We allow users to compete with friends through a unique Party System. Head over to the Playground to configure custom contest settings with your friends.\n
+    description: `A multiplayer competitive featuring real time coding battles with friends, multi-language support, code execution on given test cases and real-time analysis — born from our love for both coding and gaming.\n
+Our USP? We allow users to compete with friends through a unique Party System. Head over to the Playground Section in our app to configure custom contest settings with your friends.\n
 We’ve transformed competitive coding into an online game you can play with your friends. Dive into the project and experience the magic.\n
 \n
 🎮 Inspiration:\n
-\t• The UI and UX are heavily inspired by the God of War game — from logo to design and nomenclature.\n
+\t• The UI and UX are heavily inspired by the God of War game — from logo to design to naming some of the stuff.\n
 \t• Our Party System takes cues from Valorant's lobby-style matchmaking, enabling friends to team up and compete.\n
 \n
 👤 Personal Dashboard:\n
@@ -25,7 +25,6 @@ We’ve transformed competitive coding into an online game you can play with you
 🏆 Leaderboard:\n
 \t• Analyze your Playground participation history.\n
 \t• View performance metrics for each match — accuracy, speed, and completion rate.\n
-\t• Compete on global or friend-based leaderboards to see how you stack up.\n
 \n
 Come and explore how we've blended the thrill of gaming with the challenge of coding to create an unforgettable experience.`
   },
@@ -35,7 +34,7 @@ Come and explore how we've blended the thrill of gaming with the challenge of co
     link: "https://feedback-system-rt.vercel.app/",
     color: "black",
     description: `An institutional feedback collection system with dynamic form generation and an advanced analytics dashboard.\n
-Inspiration? - Absence of a robust and automated feedback system in our College\n
+Inspiration? - Absence of a robust and automated feedback system in our Institution\n
 Key Features:\n
 \t1. Student Registration — students can register and maintain their profiles.\n
 \t2. Admin Portal — secured access for managing the feedback system.\n
