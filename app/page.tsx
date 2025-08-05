@@ -176,7 +176,7 @@ export default function HomePage() {
 
 
                   <Link
-                    href="/RaghavBhargavaResume.pdf"
+                    href="/RaghavResume.pdf"
 
                     className="bg-purple-700 dark:bg-cyan-500 text-white px-6 py-3 rounded-full shadow-lg hover:bg-purple-600 dark:hover:bg-cyan-400 transition-colors"
 
