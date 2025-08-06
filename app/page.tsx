@@ -108,17 +108,16 @@ export default function HomePage() {
         </Link>
 
         <Link
-          isExternal
           className={buttonStyles({
             variant: "bordered",
             radius: "full",
             color: "primary",
-            className: "text-black shadow-lg px-6 py-3 border border-white rounded-full hover:text-black transition-white hover:scale-105 dark:text-white dark:border-black dark:shadow-lg"
+            className: "text-white bg-red-400 shadow-lg px-6 py-3 border border-red-400 rounded-full transition hover:scale-105 dark:text-white dark:border-black dark:shadow-lg"
           })}
-          href={siteConfig.links.github}
+          href={"/frontendAssignments"}
         >
-          <GithubIcon size={20} />
-          GitHub
+          
+          Frontend Assignments
         </Link>
 
       </motion.div>
